@@ -7,6 +7,6 @@
 
 <ul>
 	{#each links as link}
-		<li><a sveltekit:prefetch href="/links/{link}">{link}</a></li>
+		<li><a sveltekit:prefetch href="links/{link}">{link}</a></li>
 	{/each}
 </ul>
