@@ -3,7 +3,7 @@
 </script>
 
 <h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation. Sveltekit v196</p>
+<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation. Sveltekit v next.272</p>
 
 <ul>
 	{#each links as link}
